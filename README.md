@@ -2,7 +2,7 @@
 
 --------​---------------------------------------------------------------------------------------------------------------------------------------------  
 What is NextGenCoders?  
-NextGenCoders is a orginization made to help kids aged 8 to 16 learn python.
+NextGenCoders is a orginization made to help kids aged 8 to 16 learn python.  
 --------​---------------------------------------------------------------------------------------------------------------------------------------------  
 
 -------​----------------------------------------------------------------------------------------------------------------------------------------------  
@@ -10,7 +10,7 @@ How can i view the website?
 To view the website, simply download the entire site folder.  
 Instuctions:  
 1. Click on the SITE folder in the repository.  
-2. Click the download button
+2. Click the download button  
 -------​----------------------------------------------------------------------------------------------------------------------------------------------  
 
 -------​----------------------------------------------------------------------------------------------------------------------------------------------  
@@ -20,5 +20,5 @@ Instuctions:
 2. Click the link to the form  
 3. Complete the form  
   
-If you get accepted you will recive a email from aiden.codes11@gmail.com.
+If you get accepted you will recive a email from aiden.codes11@gmail.com.  
 --------​---------------------------------------------------------------------------------------------------------------------------------------------  
