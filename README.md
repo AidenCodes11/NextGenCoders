@@ -10,7 +10,8 @@ How can i view the website?
 To view the website, simply download the entire site folder.  
 Instuctions:  
 1. Click on the SITE folder in the repository.  
-2. Click the download button  
+2. Click the download button
+
 -------​----------------------------------------------------------------------------------------------------------------------------------------------  
 
 -------​----------------------------------------------------------------------------------------------------------------------------------------------  
