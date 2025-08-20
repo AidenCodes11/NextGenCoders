@@ -12,7 +12,7 @@ Instuctions:
 1. Click on the SITE.zip (not the SITE folder) file in the repository.  
 2. Click the "Download Raw File" button
 3. Go to your downloads (you'll see a zip file called SITE.zip)
-4. Extract the zip file (right click on the SITE.zip file and then click something that says "Extract" or "Extract All")
+4. Extract the zip file (right click on the SITE.zip file and then click something that says "Extract" or "Extract All")  
 5. Copy the file path for the html file (either one is fine)
 6. Paste the file path into your web browser's url bar and press enter.  
   
