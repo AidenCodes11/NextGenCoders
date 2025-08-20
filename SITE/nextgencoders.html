@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>NextGenCoders - What is it?</title>
+    <title>NextGenCoders - About Me</title>
     <style>
         .dropdown-box {
           position: relative;
@@ -15,7 +15,6 @@
           color: #eee;
           cursor: pointer;
           user-select: none;
-          max-width: 100%;
         }
 
         .dropdown-content {
@@ -53,54 +52,35 @@
     </style>
 </head>
 <body>
-    <header style="font-size:25px;position:relative;top:-15px">
-        <h1 style="position:relative;left:15px;top:5px">What is NextGenCoders?</h1>
+    <header style="font-size:25px;position:relative;top:-20px">
+        <h1 style="position:relative;left:15px;top:15px">About Me!</h1>
     </header>
-    <article style="font-size:20px;position:relative;top:-20px;left:15px">
-        NextGenCoders is an organization made to help kids age
-        <u>8 to 16</u> learn <a href="https://python.org" target="_blank" style="color:#87CEEB">python</a>. Learners
-        recive 50 minutes of learning python and 10 minutes of having fun.
+    <article style="font-size:20px;position:relative;top:-10px;left:15px">
+        Hello! My name is Aiden John, and I am the teacher of NextGenCoders. I am 11 and in 6th grade! I have 5 python certificates! Contact <u>aiden.codes@gmail.com</u> if you need any help and <br><a href="https://docs.google.com/forms/d/1n2KSbbCKzarxVf3MkVxlvpK897LSMMNYBvuLtHirJqI/edit" target="_blank" style="color:#87CEEB; font-size:20px">click here</a> to view the form to join us!
     </article>
-    <div class="dropdown-box" onclick="toggleDropdown(this)" tabindex="0">
-    <div class="dropdown-title" tabindex="0">Details&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▼</div>
-    <div class="dropdown-content" tabindex="0">
-      <p>What we are going to learn on each day of class:</p>
-      <ul>
-        <li>Your first python script!</li>
-        <li>Object Types</li>
-        <li>Variables</li>
-        <li><b>Input</b></li>
-        <li>The <b>While</b> Loop</li>
-        <li>The <b>For</b> Loop</li>
-        <li>The <b>If</b> Statment</li>
-        <li><b>Else</b> and <b>Elif</b></li>
-        <li>Lists</li>
-        <li>Other Data Structures</li>
-        <li>Making a Quiz Game!</li>
-        <li>Functions</li>
-        <li>The <b>Return</b> Statment</li>
-      </ul>
-    </div>
-    </div>
-    <script>
-        function toggleDropdown(el) {
-          el.classList.toggle("open");
-          const title = el.querySelector(".dropdown-title");
-          let text = title.textContent;
-
-          // Replace last character based on state
-          if (el.classList.contains("open")) {
-            title.textContent = text.slice(0, -1) + "▲";
-          } else {
-            title.textContent = text.slice(0, -1) + "▼";
-          }
-        }
-    </script>
-    <br><hr><br>
+    <hr>
+    <header style="font-size:15px;position:relative;top:-20px">
+        <h1 style="position:relative;left:15px;top:15px">Certifications</h1>
+    </header>
+    <article style="font-size:20px;position:relative;left:15px">
+        These are my python certifications and recognitions:
+    </article>
+    <a href="images/KaggleIntroToProgramming.png" target="_blank" style="color:#87CEEB; font-size:20px; display:block; margin-left:15px; margin-top:15px;">Kaggle Intro To Programming</a>
+    <a href="images/KagglePythonCertificate.png" target="_blank" style="color:#87CEEB; font-size:20px; display:block; margin-left:15px; margin-top:15px;">Kaggle Python Certification</a>
+    <a href="images/UdemyPythonCertificate.pdf" target="_blank" style="color:#87CEEB; font-size:20px; display:block; margin-left:15px; margin-top:15px;">Udemy PCEP Certification</a>
+    <a href="images/UdemyPCEP -Certified Entry Level Python Programmer.pdf" target="_blank" style="color:#87CEEB; font-size:20px; display:block; margin-left:15px; margin-top:15px;">Udemy Certification 2</a>
+    <a href="images/UdemyTurtlePythonCertificate.pdf" target="_blank" style="color:#87CEEB; font-size:20px; display:block; margin-left:15px; margin-top:15px;">Udemy Python Turtle Certification</a>
+    <br><hr>
+    <header style="font-size:15px;position:relative;top:-20px">
+        <h1 style="position:relative;left:15px;top:15px">Other Info</h1>
+    </header>
+    <article style="font-size:20px; display:block; margin-left:15px; margin-top:15px;">
+        Location: Sacramento, CA<br><br>Github: <a href="https://github.com/AidenCodes11" target="_blank" style="color:#87CEEB; font-size:20px">https://github.com/AidenCodes11</a><br><br>
+    </article>
+    <hr style="position:relative;right:15px;width:100.7%;margin:auto">
     <header style="font-size:15px;position:relative;top:-20px">
         <h1 style="position:relative;left:15px;top:15px">Other NextGenCoders Webpages</h1>
     </header>
-    <a href="index.html" target="_self" style="color:#87CEEB; font-size:20px; display:block; margin-left:15px; margin-top:25px;">About Me</a>
+    <a href="nextgencoders.html" target="_self" style="color:#87CEEB; font-size:20px; display:block; margin-left:15px">What is NextGenCoders?</a>
 </body>
-
 </html>
