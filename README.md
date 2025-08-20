@@ -9,7 +9,7 @@ NextGenCoders is a orginization made to help kids aged 8 to 16 learn python.
 How can i view the website?  
 To view the website, simply download the entire site folder.  
 Instuctions:  
-1. Click on the SITE.zip file in the repository.  
+1. Click on the SITE.zip (not the SITE folder) file in the repository.  
 2. Click the download button
 3. Extract the zip file
 4. Copy the file path for the html file (either one is fine)
