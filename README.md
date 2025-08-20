@@ -13,9 +13,9 @@ Instuctions:
 2. Click the download button
 3. Extract the zip file
 4. Copy the file path for the html file (either one is fine)
-5. Paste the file path into your web browser's url bar and press enter.
-6. You should see the site  
-
+5. Paste the file path into your web browser's url bar and press enter.  
+  
+After this, you should see the site.  
 -------​----------------------------------------------------------------------------------------------------------------------------------------------  
 
 -------​----------------------------------------------------------------------------------------------------------------------------------------------  
